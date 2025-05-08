@@ -5,14 +5,14 @@ Each question has been implemented and placed in a separate file or folder, name
 
 ## Folder Structure
 
-PEXA MACHINE TASK/
-|
-├── question1 → Angular project for the paginated table
-├── question2.js → JavaScript debounce function
-├── question3.js → JavaScript function to find the missing number in a sequence
-├── question4 → JavaScript for DOM manipulation (add/remove user)
-├── question5 → HTML and JavaScript for basic form validation
-└── README.md → Project explanation and instructions
+Pexa-MachineTask  
+|  
+├── question1 → Angular project for the paginated table  
+├── question2.js → JavaScript debounce function  
+├── question3.js → JavaScript function to find the missing number in a sequence  
+├── question4 → JavaScript for DOM manipulation (add/remove user)  
+├── question5 → HTML and JavaScript for basic form validation  
+└── README.md → Project explanation and instructions  
 
 
 ## Question 1 – Angular Paginated Table
