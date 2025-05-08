@@ -16,6 +16,9 @@ function findMissingNumber(arr) {
     return totalSum - currentSum; 
 }
 
+//time complexity => O(n)
+//space complexity => O(1)
+
 const arr1 = [3, 7, 1, 2, 8, 4, 5];
 const arr2 = [1, 2, 4, 5, 6];
 
